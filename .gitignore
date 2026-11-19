@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+build/
+install/
+log/
+scenarios/
+episodes/
+scenarios_single/
+batches/
+datasets/
+runs/
